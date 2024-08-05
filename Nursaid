@@ -1,0 +1,7 @@
+echo "# Dasturchi-2008" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git filiali -M main 
+git remote add origin https://github.com/nursaid7/Dasturchi-2008. git
+ git push -u origin main
